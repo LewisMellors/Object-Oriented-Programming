@@ -1,0 +1,12 @@
+﻿  NCC.cpp
+c:\users\bernard\desktop\oop assessment\oop assessment\ncc.cpp(38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\bernard\desktop\oop assessment\oop assessment\ncc.cpp(81): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\bernard\desktop\oop assessment\oop assessment\ncc.cpp(96): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\bernard\desktop\oop assessment\oop assessment\ncc.cpp(98): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\bernard\desktop\oop assessment\oop assessment\ncc.cpp(99): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\bernard\desktop\oop assessment\oop assessment\ncc.cpp(121): warning C4244: '=': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  OOP Assessment.vcxproj -> C:\Users\Bernard\Desktop\OOP Assessment\Debug\OOP Assessment.exe
